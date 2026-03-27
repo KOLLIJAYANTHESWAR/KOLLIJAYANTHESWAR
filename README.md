@@ -26,11 +26,15 @@ I am a passionate **Cloud & Backend Engineer** focused on building resilient sys
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
 ---
-
-### 📊 System Metrics (GitHub Stats)
+### 📊 Engineering Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KOLLIJAYANTHESWAR&theme=tokyonight&show_icons=true&rank_icon=github&count_private=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOLLIJAYANTHESWAR&theme=tokyonight&layout=compact" alt="Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KOLLIJAYANTHESWAR&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" height="190px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOLLIJAYANTHESWAR&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="190px" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KOLLIJAYANTHESWAR&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
