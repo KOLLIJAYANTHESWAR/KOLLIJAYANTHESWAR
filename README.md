@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 Mission Log
+### 🌟 Mission Log
 I am a **Systems Architect** focused on the intersection of robust backend logic and elastic cloud infrastructure. I build platforms that don't just work they scale.
 
 * 🔭 **Current Project:** [**MediVault**](https://github.com/KOLLIJAYANTHESWAR/MediVault) —> A cloud-native sanctuary for medical data.
@@ -31,27 +31,27 @@ I am a **Systems Architect** focused on the intersection of robust backend logic
 <table align="center" style="border: none;">
   <tr>
     <td align="left" valign="top" width="50%">
-      <h4>🌐 Backend & Logic</h4>
+      <h4>🌐 Backend Systems & Logic</h4>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <br><br>
-      <h4>🎨 Frontend</h4>
+      <h4>🎨 Frontend Interfaces</h4>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <br><br>
-      <h4>🗄️ Databases</h4>
+      <h4>🗄️ Data & Persistence</h4>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white" />
     </td>
     <td align="left" valign="top" width="50%">
-      <h4>☁️ Cloud</h4>
+      <h4>☁️ Cloud Infrastructure</h4>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
       <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
       <br><br>
-      <h4>⚙️ DevOps</h4>
+      <h4>⚙️ DevOps & Automation</h4>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -64,6 +64,18 @@ I am a **Systems Architect** focused on the intersection of robust backend logic
     </td>
   </tr>
 </table>
+
+---
+
+### 🏗️ Featured Systems
+
+| Project | Core Stack | Architectural Highlight |
+| :--- | :--- | :--- |
+| **[Cinevraix Backend](https://github.com/KOLLIJAYANTHESWAR/Cinevraix-backend.git)** | Node.js, Redis, MongoDB | Engineered a scalable social backend featuring **Redis-backed caching**, JWT-based RBAC, and real-time community interactions. |
+| **[Budget Planner DevOps](https://github.com/KOLLIJAYANTHESWAR/budget-planner-devops.git)** | Docker, Jenkins, Ansible | Architected a complete **CI/CD ecosystem** using Dockerization and automated configuration management for seamless deployment. |
+| **[Secure Digital Locker](https://github.com/KOLLIJAYANTHESWAR/SecureDigitalLocker.git)** | Java, Spring Boot, MySQL | Developed a high-integrity storage system focusing on **cryptographic security** and robust server-side validation. |
+| **[AI Voice Agents](https://github.com/KOLLIJAYANTHESWAR/30-Days-of-AI-Voice-Agents.git)** | Python, Gemini, FastAPI | Built real-time **LLM-integrated voice systems** optimized for low-latency response and intelligent context handling. |
+| **[Cloud-Native Notes](https://github.com/KOLLIJAYANTHESWAR/notes-app.git)** | AWS, Terraform, React | Orchestrated infrastructure as code (**IaC**) to deploy a resilient, multi-tier application on AWS elastic services. |
 
 ---
 
