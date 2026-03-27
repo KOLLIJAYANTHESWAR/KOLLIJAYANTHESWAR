@@ -63,8 +63,9 @@ I am a **Systems Architect** focused on the intersection of robust backend logic
 ### 📊 System Analytics (Live)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KOLLIJAYANTHESWAR&show_icons=true&theme=tokyonight&border_radius=15&title_color=0072C6&icon_color=0072C6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOLLIJAYANTHESWAR&layout=compact&theme=tokyonight&border_radius=15&title_color=0072C6" width="44%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KOLLIJAYANTHESWAR&show_icons=true&theme=tokyonight&border_radius=15&title_color=0072C6&icon_color=0072C6" width="48%" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KOLLIJAYANTHESWAR&layout=compact&theme=tokyonight&border_radius=15&title_color=0072C6" width="44%" />
 </div>
 
 <br />
