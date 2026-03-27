@@ -62,11 +62,4 @@
 
 I deploy to the cloud and pray it doesn’t rain bugs ☁️😄
 
----
 
-📊 **GitHub Stats**
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kollijayantheswar&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kollijayantheswar" />
-</p>
