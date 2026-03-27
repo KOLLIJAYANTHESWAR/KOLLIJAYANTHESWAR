@@ -19,9 +19,9 @@
 ---
 
 ### 🚀 Mission Log
-I am a **Systems Architect** focused on the intersection of robust backend logic and elastic cloud infrastructure. I build platforms that don't just work—they scale.
+I am a **Systems Architect** focused on the intersection of robust backend logic and elastic cloud infrastructure. I build platforms that don't just work they scale.
 
-* 🔭 **Current Project:** [**MediVault**](https://github.com/KOLLIJAYANTHESWAR/MediVault) — A cloud-native sanctuary for medical data.
+* 🔭 **Current Project:** [**MediVault**](https://github.com/KOLLIJAYANTHESWAR/MediVault) —> A cloud-native sanctuary for medical data.
 * ⚡ **Tech Philosophy:** Scalability is not an afterthought; it's a foundation.
 * 🌱 **Currently Mastering:** Kubernetes Operators and Service Mesh (Istio).
 
@@ -41,7 +41,7 @@ I am a **Systems Architect** focused on the intersection of robust backend logic
       <h4>🗄️ Persistence & Cache</h4>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white" />
     </td>
     <td align="left" valign="top" width="50%">
       <h4>☁️ Cloud & DevOps</h4>
@@ -49,6 +49,9 @@ I am a **Systems Architect** focused on the intersection of robust backend logic
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+      <br><br>
+      <h4>🎨 Frontend</h4>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <br><br>
       <h4>🛠️ Tools & Architecture</h4>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
