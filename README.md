@@ -18,7 +18,7 @@
 ---
 
 ### 🌟 Mission Log
-I am a **Systems Architect** focused on the intersection of robust backend logic and elastic cloud infrastructure. I build platforms that don't just work they scale.
+I am a **Systems Architect** focused on the intersection of robust backend logic and elastic cloud infrastructure. I build platforms that don't just work - they scale.
 
 * 🔭 **Current Project:** [**MediVault**](https://github.com/KOLLIJAYANTHESWAR/MediVault) —> A cloud-native sanctuary for medical data.
 * ⚡ **Tech Philosophy:** Scalability is not an afterthought; it's a foundation.
@@ -67,7 +67,7 @@ I am a **Systems Architect** focused on the intersection of robust backend logic
 
 ---
 
-### 🏗️ Featured Systems
+### 🏗️ Featured Systems & Architectures
 
 | Project | Core Stack | Architectural Highlight |
 | :--- | :--- | :--- |
