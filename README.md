@@ -23,7 +23,7 @@
 ### 🌟 Mission Log
 I am a **Systems Architect** focused on the intersection of robust backend logic and elastic cloud infrastructure. I build platforms that don't just work - they scale.
 
-* 🔭 **Current Project:** [**MediVault**](https://github.com/KOLLIJAYANTHESWAR/MediVault) —> A cloud-native sanctuary for medical data.
+* 🔭 **Current Project:** [**BodhaQ**](https://github.com/KOLLIJAYANTHESWAR/BodhaQ) —> A AI-powered learning workspace that transforms study materials and topics into interactive learning experiences.
 * ⚡ **Tech Philosophy:** Scalability is not an afterthought; it's a foundation.
 * 🌱 **Currently Mastering:** Kubernetes Operators and Service Mesh (Istio).
 
