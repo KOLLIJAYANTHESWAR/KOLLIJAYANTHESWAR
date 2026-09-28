@@ -127,9 +127,9 @@ I am actively strengthening my **Data Structures & Algorithms** and problem-solv
 
 <br />
 
-<div align="center">
+<!-- <div align="center"> -->
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KOLLIJAYANTHESWAR&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=0072C6" width="100%" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=KOLLIJAYANTHESWAR&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=0072C6" width="100%" /> -->
 
 </div>
 
